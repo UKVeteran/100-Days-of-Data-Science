@@ -49,53 +49,53 @@ Day 46 :- concatenating & querying<br>
 Day 47 :- filtering & exporting<br>
 Day 48 :- filtering & missing values<br>
 Day 49 :- missing values<br>
-Day 50 :- missing values & random
-Day 51 :- data preprocessing
-Day 52 :- data preprocessing
-Day 53 :- data preprocessing
-Day 54 :- grouping & mapping
-Day 55 :- data exploring
-Day 56 :- data preprocessing
-Day 57 :- grouping & querying
-Day 58 :- Querying
-Day 59 :- duplicated data, data types
-Day 60 :- data types
-Day 61 :- categorical data
-Day 62 :- categorical data & dummies
-Day 63 :- Data Analysis
-Day 64 :- data preprocessing
-Day 65 :- JSON Files
-Day 66 :- JSON Files
-Day 67 :- CSV Files
-Day 68 :- Data Processing
-Day 69 :- data preprocessing
-Day 70 :- data preprocessing
-Day 71 :- data preprocessing
-Day 72 :- merging
-Day 73 :- Pivot Tables
-Day 74 :- imputing missing values
-Day 75 :- imputing missing values
-Day 76 :- continuous to categorical variable
-Day 77 :- data preprocessing
-Day 78 :- data preprocessing
-Day 79 :- data exploring
-Day 80 :- train-test split, logistic regression & prediction
-Day 81 :- LabelEncoder & OneHotEncoder
-Day 82 :- data preprocessing
-Day 83 :- data preprocessing
-Day 84 :- linear regression & polynomial features
-Day 85 :- metrics
-Day 86 :- StandardScaler & entropy
-Day 87 :- accuracy, confusion matrix & decision tree
-Day 88 :- decision tree & grid search
-Day 89 :- random forest, grid search & CountVectorizer
-Day 90 :- CountVectorizer & TfidfVectorizer
-Day 91 :- KMeans, AgglomerativeClustering & DBSCAN
-Day 92 :- PCA
-Day 93 :- LocalOutlierFactor & IsolationForest
-Day 94 :- KNeighborsClassifier & Logisticregression
-Day 95 :- association rules
-Day 96 :- CountVectorizer
-Day 97 :- classification & MultinomialNB
-Day 98 :- data preprocessing
-Day 99 :- LinearRegression & R^2 score
+Day 50 :- missing values & random<br>
+Day 51 :- data preprocessing<br>
+Day 52 :- data preprocessing<br>
+Day 53 :- data preprocessing<br>
+Day 54 :- grouping & mapping<br>
+Day 55 :- data exploring<br>
+Day 56 :- data preprocessing<br>
+Day 57 :- grouping & querying<br>
+Day 58 :- Querying<br>
+Day 59 :- duplicated data, data types<br>
+Day 60 :- data types<br>
+Day 61 :- categorical data<br>
+Day 62 :- categorical data & dummies<br>
+Day 63 :- Data Analysis<br>
+Day 64 :- data preprocessing<br>
+Day 65 :- JSON Files<br>
+Day 66 :- JSON Files<br>
+Day 67 :- CSV Files<br>
+Day 68 :- Data Processing<br>
+Day 69 :- data preprocessing<br>
+Day 70 :- data preprocessing<br>
+Day 71 :- data preprocessing<br>
+Day 72 :- merging<br>
+Day 73 :- Pivot Tables<br>
+Day 74 :- imputing missing values<br>
+Day 75 :- imputing missing values<br>
+Day 76 :- continuous to categorical variable<br>
+Day 77 :- data preprocessing<br>
+Day 78 :- data preprocessing<br>
+Day 79 :- data exploration<br>
+Day 80 :- train-test split, logistic regression & prediction<br>
+Day 81 :- LabelEncoder & OneHotEncoder<br>
+Day 82 :- data preprocessing<br>
+Day 83 :- data preprocessing<br>
+Day 84 :- linear regression & polynomial features<br>
+Day 85 :- metrics<br>
+Day 86 :- StandardScaler & entropy<br>
+Day 87 :- accuracy, confusion matrix & decision tree<br>
+Day 88 :- decision tree & grid search<br>
+Day 89 :- random forest, grid search & CountVectorizer<br>
+Day 90 :- CountVectorizer & TfidfVectorizer<br>
+Day 91 :- KMeans, AgglomerativeClustering & DBSCAN<br>
+Day 92 :- PCA<br>
+Day 93 :- LocalOutlierFactor & IsolationForest<br>
+Day 94 :- KNeighborsClassifier & Logisticregression<br>
+Day 95 :- association rules<br>
+Day 96 :- CountVectorizer<br>
+Day 97 :- classification & MultinomialNB<br>
+Day 98 :- data preprocessing<br>
+Day 99 :- LinearRegression & R^2 score<br>
