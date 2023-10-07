@@ -98,4 +98,5 @@ Day 95 :- association rules<br>
 Day 96 :- CountVectorizer<br>
 Day 97 :- classification & MultinomialNB<br>
 Day 98 :- data preprocessing<br>
-Day 99 :- LinearRegression & R^2 score<br>
+Day 99 :- LinearRegression & R2<br>
+Day 100 :- LinearRegression & GradientBoosting
